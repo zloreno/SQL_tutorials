@@ -9,8 +9,6 @@ Oh, yes, worht mentioning, I use MySQL Workbench (my professor said so, I have n
 Some commands will be executed only if you use that application\
 <br/>
 <br/>
-<br/>
-<br/>
 In Italy we say "man warned, man half-saved"\
 Cherio
 <br/>
