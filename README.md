@@ -8,7 +8,7 @@ Then, if my unique sense of humor hasn't discouraged you yet (it will get worse)
 <br/>
 <br/>
 <br/>
-Oh, and I use MySQL Workbench, I'm just a puppet of my professor\
+Oh, and I use MySQL Workbench, my professor said so\
 Some commands will be executed only if you use that application\
 In Italy we say "man warned, man half-saved"\
 Cherio
