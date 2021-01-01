@@ -6,7 +6,6 @@ Oh, yes, worht mentioning, I use MySQL Workbench, some commands are specific for
 Then, if my unique sense of humor hasn't discouraged you yet (it will get worse), follow along for this wild ride that is the crazy world of SQL.\
 <br/>
 In Italy we say "man warned, man half-saved"\
-Cherio
 <br/>
 <br/>
 <br/>
