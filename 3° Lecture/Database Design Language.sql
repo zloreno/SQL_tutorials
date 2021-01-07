@@ -1,3 +1,8 @@
+-- We'll work on this file to see what changes what
+-- Probaily will use different ones tho, not really agreeing with my professor on how this has been conducted
+
+
+
 -- MySQL-specific commands (remove the next 4 lines for use on other systems)
   drop database if exists FAFD;
   create database FAFD;
